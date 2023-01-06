@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jeongdaeyun
 - 👀 I’m interested in health i enjoy this
 - 🌱 I’m currently learning AI in university
-- 💞️ I’m looking to collaborate on ...
+- 💞️ My university is Hanyang University ERICA and I am currently majoring in ICT at software
 - 📫 How to reach me wjdeodbs386@naver.com
 
 <!---
